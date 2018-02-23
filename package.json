@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xaksis/vue-good-table"
+    "url": "git+https://github.com/mlarese/vue-table-custom.git"
   },
   "keywords": [
     "vue",
@@ -30,9 +30,10 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "date-fns": "^2.0.0-alpha.3",
+    "diacriticless": "1.0.1",
     "lodash.clone": "^4.5.0",
     "lodash.foreach": "^4.5.0",
-    "diacriticless": "1.0.1"
+    "sass-loader": "^6.0.6"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",

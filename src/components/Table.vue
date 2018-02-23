@@ -602,15 +602,12 @@
   /*eslint-enable */
 </script>
 
-<style lang="scss">
-  .good-table {
-    .pagination{
-      margin:4px;
-    }
-    .pagination-container{
+<style>
+  .good-table .pagination{ margin:4px; }
+  .good-table  .pagination-container{
       text-align: center;
-    }
   }
+
 </style>
 <style lang="css" scoped>
 
